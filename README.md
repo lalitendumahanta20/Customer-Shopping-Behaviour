@@ -2,7 +2,7 @@
 
 End-to-End Data Analytics Project using Python, SQL & Power BI
 ________________________________________
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing customer behavior, spending habits, and purchasing trends. By combining data processing, analysis, and visualization, the project delivers actionable insights that can help businesses improve customer retention and optimize sales strategies.
 
@@ -10,7 +10,7 @@ The analysis covers the complete data analytics lifecycle — from raw data prep
 
 This project is designed to simulate a real-world data analyst workflow.
 ________________________________________
-🎯 Business Problem Statement.
+## 🎯 Business Problem Statement.
 
 A retail company wants to understand how customers behave across different demographics, product categories, and purchasing conditions.
 Key business questions include:
@@ -22,16 +22,16 @@ Key business questions include:
 
 The goal is to convert raw customer data into actionable business insights.
 ________________________________________
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 •	Python (Pandas, NumPy, Matplotlib, Seaborn) – Data analysis and visualization
 •	SQL: Data extraction, cleaning, and transformation
 •	Power BI: Interactive dashboard and business insights
 •	GitHub: Version control and project documentation
 ________________________________________
-🔍 Project Workflow
+## 🔍 Project Workflow
 
-1️⃣ Data Cleaning & Exploration (Python)
+## 1️⃣ Data Cleaning & Exploration (Python)
 
 Used Python libraries like Pandas, NumPy, and Matplotlib to:
 
@@ -42,7 +42,7 @@ Used Python libraries like Pandas, NumPy, and Matplotlib to:
 
 📄 File: Customer_Shopping_behaviour.ipynb
 ________________________________________
-2️⃣ Data Extraction & Preparation (SQL)
+## 2️⃣ Data Extraction & Preparation (SQL)
 
 The cleaned dataset was loaded into a PostgreSQL database to perform structured analysis.
 Used SQL to:
@@ -53,7 +53,7 @@ Used SQL to:
 •	Create structured datasets for further processing
 📄 File: customer_shopping_behavior.sql
 ________________________________________
-3️⃣ Data Visualization (Power BI)
+## 3️⃣ Data Visualization (Power BI)
 
 An interactive Power BI dashboard was created to communicate insights to stakeholders.
 Built an interactive dashboard to:
@@ -65,7 +65,7 @@ Built an interactive dashboard to:
 
 📄 File: customer_behavior.pbix
 ________________________________________
-💡 Key Insights
+##💡 Key Insights
 
 •	Identified customer spending patterns across different segments
 •	Analyzed purchase frequency and behavior trends
