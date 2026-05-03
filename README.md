@@ -15,8 +15,7 @@ ________________________________________
 A retail company wants to understand how customers behave across different demographics, product categories, and purchasing conditions.
 Key business questions include:
 
-•	Which customer segments generate the highest revenue?
-
+•	Which customer segments generate the highest revenue? 
 •	How do discounts and subscriptions affect spending?
 •	Does shipping type influence purchase value?
 •	What drives repeat purchases and customer loyalty?
